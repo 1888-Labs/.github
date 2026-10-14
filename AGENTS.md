@@ -15,7 +15,7 @@ Do not add a top-level `README.md`. GitHub only renders `profile/README.md` on t
 
 ## Editing the profile
 
-- Keep it simple, plain Markdown, and text-first. No logos, badges, or banners unless asked.
+- Keep it simple, plain Markdown, and text-first. The only image is the brand banner at `profile/assets/banner.png` (from the `1888-Labs/brandkit` repo). No other logos, badges, or banners unless asked.
 - Match the existing voice: calm, technical, and direct. Avoid hype and marketing language.
 - Keep it short. Sections: intro, What We Work On, Get Involved.
 - Do not invent projects, links, contact details, or claims about the lab.

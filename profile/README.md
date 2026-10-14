@@ -1,3 +1,5 @@
+<img src="./assets/banner.png" alt="1888 Labs" width="100%">
+
 # 1888 Labs
 
 **Building open infrastructure for verifiable, distributed, and intelligent systems.**
