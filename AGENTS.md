@@ -17,8 +17,7 @@ Do not add a top-level `README.md`. GitHub only renders `profile/README.md` on t
 
 - Keep it simple, plain Markdown, and text-first. No logos, badges, or banners unless asked.
 - Match the existing voice: calm, technical, and direct. Avoid hype and marketing language.
-- Keep the section order: intro, What We Work On, How We Build, Projects, Research Interests, Principles, Contributing, Connect.
-- When adding a project, follow the existing format: a `###` heading with the project name, then a one- or two-sentence description. Link to the repo only once it exists under the `1888-Labs` org.
+- Keep it short. Sections: intro, What We Work On, Get Involved.
 - Do not invent projects, links, contact details, or claims about the lab.
 
 ## Commits
